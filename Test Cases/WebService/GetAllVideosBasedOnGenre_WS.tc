@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetAllVideosBasedOnGenre_WS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abd66f20-2e88-41d7-87ac-0c818e6f9563</testCaseGuid>
+</TestCaseEntity>
